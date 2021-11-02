@@ -22,6 +22,8 @@ My research interests center around planning, control and optimization for manip
 News:
 ======
 - October 2021: One paper on multi-robot task allocation and planning for legged and wheeled robots is submitted to ICRA 2022. Check the preprint [here](https://arxiv.org/pdf/2110.08436.pdf)!
+- August 2021: One paper on rapid quadruped spinning is accepted by Frontiers in Robotics and AI. Link is [here](https://www.frontiersin.org/articles/10.3389/frobt.2021.724138/full). 
+- July 2021: Our preliminary work on momentum-aware trajectory optimization is presented on Dynamic Walking.
 - June 2021: I start my internship at [UBTECH Robotics](https://www.ubtrobot.com/?ls=en).
 - March 2021: Mini Cheetah is delivered! Great hardware platform from [MIT Biomimetic Robotics Lab](https://biomimetics.mit.edu/). 
 
