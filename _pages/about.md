@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a second-year Ph.D. student in School of Electrical and Computer Engineering, Georgia Institute of Technology, specializing in Robotics. I'm working with Dr. Ye Zhao at the Laboratory for Intelligent Decision and Autonomous Robots (LIDAR). 
+I'm a Ph.D. student in School of Electrical and Computer Engineering, Georgia Institute of Technology, specializing in Robotics. I'm working with Dr. Ye Zhao at the Laboratory for Intelligent Decision and Autonomous Robots (LIDAR). 
 
 Prior to that, I received my Bachelor's degree in Automation (Systems and Controls), School of Information and Science Engineering, Northeastern University, China in 2018.
 
