@@ -21,18 +21,18 @@ author_profile: true
 ### Terrain-perception-free Quadrupedal Spinning Locomotion on Versatile Terrains: Modeling, Analysis, and Experimental Validation
 
 
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/MgGrAC3NSyI&t=1s"></iframe>
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/MgGrAC3NSyI"></iframe>
 ***
 
 ### Accelerated ADMM based Trajectory Optimization for Legged Locomotion with Coupled Rigid Body Dynamics
 
 
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/BP3YILbidN0&t=12s"></iframe>
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/BP3YILbidN0"></iframe>
 ***
 
 ## For Fun
 ### Field Test with LIDARers
 
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/nybqZQcNP-w&t=24s"></iframe>
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/nybqZQcNP-w"></iframe>
 ***
 
