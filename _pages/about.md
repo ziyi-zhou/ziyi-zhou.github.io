@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a Ph.D. student in School of Electrical and Computer Engineering, Georgia Institute of Technology, specializing in Robotics. I'm working with Dr. Ye Zhao at the Laboratory for Intelligent Decision and Autonomous Robots (LIDAR). 
+I'm a Ph.D. student in School of [Electrical and Computer Engineering](https://www.ece.gatech.edu/), Georgia Tech, specializing in Robotics. I'm advised by Dr. [Ye Zhao](https://www.me.gatech.edu/faculty/zhao) at the [Laboratory for Intelligent Decision and Autonomous Robots (LIDAR)](https://lab-idar.gatech.edu/). 
 
-Prior to that, I received my Bachelor's degree in Automation (Systems and Controls), School of Information and Science Engineering, Northeastern University, China in 2018.
+Prior to that, I received an M.S. also in [Electrical and Computer Engineering](https://www.ece.gatech.edu/) from Georgia Tech in 2020 and a B.Eng. in Automation from [Northeastern University (China)](http://english.neu.edu.cn/) in 2018.
 
 My research interests center around planning, control and optimization for manipulation and legged locomotion, especially in: 
 
@@ -21,7 +21,8 @@ My research interests center around planning, control and optimization for manip
 
 News:
 ======
-- October 2021: One paper on multi-robot task allocation and planning for legged and wheeled robots is submitted to ICRA 2022. Check the preprint [here](https://arxiv.org/pdf/2110.08436.pdf)!
+- February 2022: Our work on momentum-aware trajectory optimization and control is out. [[pdf]](https://arxiv.org/abs/2203.01548.pdf)
+- October 2021: One preprint on multi-robot task allocation and planning for legged and wheeled robots is out. Link is [here](https://arxiv.org/pdf/2110.08436.pdf)!
 - August 2021: One paper on rapid quadruped spinning is accepted by Frontiers in Robotics and AI. Link is [here](https://www.frontiersin.org/articles/10.3389/frobt.2021.724138/full). 
 - July 2021: Our preliminary work on momentum-aware trajectory optimization is presented on Dynamic Walking.
 - June 2021: I start my internship at [UBTECH Robotics](https://www.ubtrobot.com/?ls=en).

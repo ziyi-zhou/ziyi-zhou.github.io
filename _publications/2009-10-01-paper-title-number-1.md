@@ -10,6 +10,8 @@ redirect_from:
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=cnitUIAAAAAJ&hl=en).
 
 ## Preprint
+- **Ziyi Zhou**\*, **Bruce Wingo**\*, Nathan Boyd, Seth Hutchinson, and Ye Zhao. *"Momentum-Aware Trajectory Optimization and Control for Agile Quadrupedal Locomotion"* (*equally contributed), submitted, 2022. [[pdf]](https://arxiv.org/abs/2203.01548.pdf)
+
 - **Ziyi Zhou**, Dong Jae Lee, Yuki Yoshinaga, Dejun Guo, and Ye Zhao. *"Reactive Task Allocation and Planning of A Heterogeneous Multi-Robot System"*, submitted, 2021.
 [[pdf]](https://arxiv.org/pdf/2110.08436.pdf)
 
