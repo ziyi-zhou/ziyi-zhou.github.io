@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 ## Accompanying videos for paper submissions
+### Momentum-Aware Trajectory Optimization and Control for Agile Quadrupedal Locomotion
+
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/6M78cM0cgCM"></iframe>
+***
+
 ### Reactive Task Allocation and Planning of A Heterogeneous Multi-Robot System
 
 

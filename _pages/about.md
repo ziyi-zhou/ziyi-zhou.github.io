@@ -21,7 +21,7 @@ My research interests center around planning, control and optimization for manip
 
 News:
 ======
-- June 2022: Our momentum-aware trajectory optimization and MPC paper has been accepted by RA-L! [[pdf]](https://arxiv.org/abs/2203.01548.pdf)
+- June 2022: Our momentum-aware trajectory optimization and MPC paper has been accepted by RA-L! [[pdf]](https://arxiv.org/pdf/2203.01548.pdf)
 - May 2022: Our multi-robot task allocation and planning work has been accepted by CASE 2022! The extended version is attached. [[pdf]](https://arxiv.org/pdf/2110.08436.pdf)
 - August 2021: One paper on rapid quadruped spinning is accepted by Frontiers in Robotics and AI. Link is [here](https://www.frontiersin.org/articles/10.3389/frobt.2021.724138/full). 
 - July 2021: Our preliminary work on momentum-aware trajectory optimization is presented on Dynamic Walking.

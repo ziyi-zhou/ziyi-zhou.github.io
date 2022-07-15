@@ -10,12 +10,12 @@ redirect_from:
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=cnitUIAAAAAJ&hl=en).
 
 ## Preprints
-- **Ziyi Zhou**\*, Bruce Wingo\*, Nathan Boyd, Seth Hutchinson, and Ye Zhao. *"Momentum-Aware Trajectory Optimization and Control for Agile Quadrupedal Locomotion"* (*equally contributed), accepted to IEEE Robotics and Automation Letters, 2022. [[pdf]](https://arxiv.org/abs/2203.01548.pdf)
-
 - **Ziyi Zhou**, Dong Jae Lee, Yuki Yoshinaga, Dejun Guo, and Ye Zhao. *"Reactive Task Allocation and Planning for Quadrupedal and Wheeled Robots"*, accepted to IEEE International Conference on Automation Science and Engineering (CASE), 2022.
 [[pdf]](https://arxiv.org/pdf/2110.08436.pdf)
 
 ## Journals
+- **Ziyi Zhou**\*, Bruce Wingo\*, Nathan Boyd, Seth Hutchinson, and Ye Zhao. *"Momentum-Aware Trajectory Optimization and Control for Agile Quadrupedal Locomotion"*, (*equally contributed), (with IROS option), IEEE Robotics and Automation Letters, 7(3), 7755-7762, 2022. [[pdf]](https://arxiv.org/pdf/2203.01548.pdf)
+
 - Zhigen Zhao\*, **Ziyi Zhou**\*, Michael Park, and Ye Zhao. *"SyDeBO: Symbolic-Decision-Embedded Bilevel Optimization for Long-Horizon Manipulation in Dynamic Environments"*. (*equally contributed), IEEE Access, vol. 8, pp. 12817-12826, 2021.
 [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9537786)
 
