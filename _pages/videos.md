@@ -6,6 +6,16 @@ author_profile: true
 ---
 
 ## Accompanying videos for paper submissions
+### Real-Time Deformable-Contact-Aware Model Predictive Control for Force-Modulated Manipulation
+
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/wuC0Zyr-ZKU"></iframe>
+***
+
+### GPF-BG: A Hierarchical Vision-Based Planning Framework for Safe Quadrupedal Navigation
+
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/avUnefrbhY8"></iframe>
+***
+
 ### Momentum-Aware Trajectory Optimization and Control for Agile Quadrupedal Locomotion
 
 <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/6M78cM0cgCM"></iframe>
