@@ -9,21 +9,23 @@ redirect_from:
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=cnitUIAAAAAJ&hl=en).
 
+(*equally contributed)
+
 ## Preprints
 - Shiyu Feng, **Ziyi Zhou**, Justin S. Smith, Max Asselmeier, Ye Zhao, and Patricio A. Vela. *"GPF-BG: A Hierarchical Vision-Based Planning Framework for Safe Quadrupedal Navigation"*, IEEE International Conference on Robotics and Automation (ICRA). 2023, accepted.
 [[pdf]](https://lab-idar.gatech.edu/wp-content/uploads/2023/02/pubQuadNav-ICRA-2023.pdf)
 
 - Lasitha Wijayarathne\*, **Ziyi Zhou**\*, Ye Zhao, and Frank L. Hammond III. *"Real-Time Deformable-Contact-Aware Model Predictive Control for
-Force-Modulated Manipulation"*, (*equally contributed), IEEE Transactions on Robotics, accepted.
+Force-Modulated Manipulation"*, IEEE Transactions on Robotics, accepted.
 [[pdf]](https://arxiv.org/pdf/2212.09234.pdf)
 [[code]](https://github.com/lasithagt/admm)  
 
 
 ## Journals
-- **Ziyi Zhou**\*, Bruce Wingo\*, Nathan Boyd, Seth Hutchinson, and Ye Zhao. *"Momentum-Aware Trajectory Optimization and Control for Agile Quadrupedal Locomotion"*, (*equally contributed), (with IROS option), IEEE Robotics and Automation Letters, 7(3), 7755-7762, 2022.
+- **Ziyi Zhou**\*, Bruce Wingo\*, Nathan Boyd, Seth Hutchinson, and Ye Zhao. *"Momentum-Aware Trajectory Optimization and Control for Agile Quadrupedal Locomotion"* (with IROS option), IEEE Robotics and Automation Letters, 7(3), 7755-7762, 2022.
 [[pdf]](https://arxiv.org/pdf/2203.01548.pdf)
 
-- Zhigen Zhao\*, **Ziyi Zhou**\*, Michael Park, and Ye Zhao. *"SyDeBO: Symbolic-Decision-Embedded Bilevel Optimization for Long-Horizon Manipulation in Dynamic Environments"*. (*equally contributed), IEEE Access, vol. 8, pp. 12817-12826, 2021.
+- Zhigen Zhao\*, **Ziyi Zhou**\*, Michael Park, and Ye Zhao. *"SyDeBO: Symbolic-Decision-Embedded Bilevel Optimization for Long-Horizon Manipulation in Dynamic Environments"*, IEEE Access, vol. 8, pp. 12817-12826, 2021.
 [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9537786)
 [[code]](https://github.com/GTLIDAR/tamp-manipulation)
 
