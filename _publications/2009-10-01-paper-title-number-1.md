@@ -13,8 +13,8 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 - Shiyu Feng, **Ziyi Zhou**, Justin S. Smith, Max Asselmeier, Ye Zhao, and Patricio A. Vela. *"GPF-BG: A Hierarchical Vision-Based Planning Framework for Safe Quadrupedal Navigation"*, IEEE International Conference on Robotics and Automation (ICRA). 2023, accepted.
 [[pdf]](https://lab-idar.gatech.edu/wp-content/uploads/2023/02/pubQuadNav-ICRA-2023.pdf)
 
-- Lasitha Wijayarathne, **Ziyi Zhou**, Ye Zhao, and Frank L. Hammond III. *"Real-Time Deformable-Contact-Aware Model Predictive Control for
-Force-Modulated Manipulation"*, IEEE Transactions on Robotics, conditionally accepted.
+- Lasitha Wijayarathne\*, **Ziyi Zhou**\*, Ye Zhao, and Frank L. Hammond III. *"Real-Time Deformable-Contact-Aware Model Predictive Control for
+Force-Modulated Manipulation"*, (*equally contributed), IEEE Transactions on Robotics, accepted.
 [[pdf]](https://arxiv.org/pdf/2212.09234.pdf)
 [[code]](https://github.com/lasithagt/admm)  
 
