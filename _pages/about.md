@@ -24,8 +24,8 @@ Please check out my [Google Scholar](https://scholar.google.com/citations?user=c
 Selected Publications:
 ======
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div style="flex: 0 0 200px;">
-        <img src="..\images\mmp.png" alt="SE3ET Thumbnail" style="width: 200px; height: auto;">
+    <div style="flex: 0 0 300px;">
+        <img src="..\images\mmp.png" alt="SE3ET Thumbnail" style="width: 300px; height: auto;">
     </div>
     <div style="flex: 1; padding-left: 20px;">
         <h3>Hierarchical Experience-informed Navigation for Multi-modal Quadrupedal Rebar Grid Traversal</h3>
@@ -46,8 +46,8 @@ Selected Publications:
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div style="flex: 0 0 200px;">
-        <img src="..\images\tro_soft.gif" alt="SE3ET Thumbnail" style="width: 200px; height: auto;">
+    <div style="flex: 0 0 300px;">
+        <img src="..\images\tro_soft.gif" alt="SE3ET Thumbnail" style="width: 300px; height: auto;">
     </div>
     <div style="flex: 1; padding-left: 20px;">
         <h3>Real-Time Deformable-Contact-Aware Model Predictive Control for Force-Modulated Manipulation</h3>
@@ -68,8 +68,8 @@ Selected Publications:
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div style="flex: 0 0 200px;">
-        <img src="..\images\mmp.png" alt="SE3ET Thumbnail" style="width: 200px; height: auto;">
+    <div style="flex: 0 0 300px;">
+        <img src="..\images\momentum_aware.gif" alt="SE3ET Thumbnail" style="width: 300px; height: auto;">
     </div>
     <div style="flex: 1; padding-left: 20px;">
         <h3>Momentum-Aware Trajectory Optimization and Control for Agile Quadrupedal Locomotion</h3>
@@ -86,8 +86,8 @@ Selected Publications:
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div style="flex: 0 0 200px;">
-        <img src="..\images\gpf.png" alt="SE3ET Thumbnail" style="width: 200px; height: auto;">
+    <div style="flex: 0 0 300px;">
+        <img src="..\images\gpf.png" alt="SE3ET Thumbnail" style="width: 300px; height: auto;">
     </div>
     <div style="flex: 1; padding-left: 20px;">
         <h3>GPF-BG: A Hierarchical Vision-Based Planning Framework for Safe Quadrupedal Navigation</h3>
@@ -109,8 +109,8 @@ Selected Publications:
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div style="flex: 0 0 200px;">
-        <img src="..\images\ltl_multi_robot.png" alt="SE3ET Thumbnail" style="width: 200px; height: auto;">
+    <div style="flex: 0 0 300px;">
+        <img src="..\images\ltl_multi_robot.png" alt="SE3ET Thumbnail" style="width: 300px; height: auto;">
     </div>
     <div style="flex: 1; padding-left: 20px;">
         <h3>Reactive Task Allocation and Planning for Quadrupedal and Wheeled Robot Teaming</h3>
@@ -128,8 +128,8 @@ Selected Publications:
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div style="flex: 0 0 200px;">
-        <img src="..\images\sydebo.png" alt="SE3ET Thumbnail" style="width: 200px; height: auto;">
+    <div style="flex: 0 0 300px;">
+        <img src="..\images\sydebo.png" alt="SE3ET Thumbnail" style="width: 300px; height: auto;">
     </div>
     <div style="flex: 1; padding-left: 20px;">
         <h3>SyDeBO: Symbolic-Decision-Embedded Bilevel Optimization for Long-Horizon Manipulation in Dynamic Environments</h3>
@@ -147,8 +147,8 @@ Selected Publications:
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div style="flex: 0 0 200px;">
-        <img src="..\images\admm.png" alt="SE3ET Thumbnail" style="width: 200px; height: auto;">
+    <div style="flex: 0 0 300px;">
+        <img src="..\images\admm.png" alt="SE3ET Thumbnail" style="width: 300px; height: auto;">
     </div>
     <div style="flex: 1; padding-left: 20px;">
         <h3>Accelerated ADMM based Trajectory Optimization for Legged Locomotion with Coupled Rigid Body Dynamics</h3>
