@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "CV"
-    url: "../images/mmp.png"
+    url: "https://ziyi-zhou.github.io/files/Ziyi_CV.pdf"
 
   - title: "Videos"
     url: /videos/

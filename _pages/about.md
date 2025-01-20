@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a Ph.D. student in School of [Electrical and Computer Engineering](https://www.ece.gatech.edu/), Georgia Tech, specializing in Robotics. I'm advised by Dr. [Ye Zhao](https://www.me.gatech.edu/faculty/zhao) at the [Laboratory for Intelligent Decision and Autonomous Robots (LIDAR)](https://lab-idar.gatech.edu/). 
+I'm a Ph.D. student in School of [Electrical and Computer Engineering](https://www.ece.gatech.edu/), Georgia Tech, specializing in Robotics. I'm advised by Dr. [Ye Zhao](https://www.me.gatech.edu/faculty/zhao) at the [Laboratory for Intelligent Decision and Autonomous Robots (LIDAR)](https://lab-idar.gatech.edu/).
 
 Prior to that, I received an M.S. also in [Electrical and Computer Engineering](https://www.ece.gatech.edu/) from Georgia Tech in 2020 and a B.Eng. in Automation from [Northeastern University (China)](http://english.neu.edu.cn/) in 2018.
 
@@ -19,13 +19,43 @@ My research interests center around optimization-based planning, control, and es
 
 3) Safe contact planning in cluttered environments.
 
-Please check out my [Google Scholar](https://scholar.google.com/citations?user=cnitUIAAAAAJ&hl=en) page for the full list of my publications.
+I also collaborated closely with [SkyMul](https://www.linkedin.com/company/skymul/) to automate the rebar tying process using quadrupedal robots. Check out some of the cool things we showcased at WOC 2024!
+
+<div style="display: flex; align-items: center; margin-bottom: 20px; gap: 20px;">
+    <div style="flex: 0 0 auto;">
+        <img src="../images/rebar_1.gif" alt="Rebar Tying Animation 1" style="width: 300px; height: auto;">
+    </div>
+    <div style="flex: 0 0 auto;">
+        <img src="../images/rebar_2.gif" alt="Rebar Tying Animation 2" style="width: 300px; height: auto;">
+    </div>
+</div>
 
 Selected Publications:
 ======
+Please check out my [Google Scholar](https://scholar.google.com/citations?user=cnitUIAAAAAJ&hl=en) page for the full list of my publications.
+
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div style="flex: 0 0 300px;">
-        <img src="..\images\mmp.png" alt="SE3ET Thumbnail" style="width: 300px; height: auto;">
+    <div style="flex: 0 0 250px;">
+        <img src="..\images\opt2skill.gif" alt="MMP" style="width: 250px; height: auto;">
+    </div>
+    <div style="flex: 1; padding-left: 20px;">
+        <h3>Opt2Skill: Imitating Dynamically-feasible Whole-Body Trajectories for Versatile Humanoid Loco-Manipulation</h3>
+        <p>
+            Fukang Liu, Zhaoyuan Gu, Yilin Cai, <strong>Ziyi Zhou</strong>, Shijie Zhao, Hyunyoung Jung, Sehoon Ha, Yue Chen, Danfei Xu, Ye Zhao<br>
+            <em>arXiv preprint</em>
+        </p>
+        <p>
+            <a href="https://arxiv.org/pdf/2409.20514">Paper</a> |
+            <a href="https://www.youtube.com/watch?v=DRHfpCYXJfU">Video</a> |
+            <a href="https://opt2skill.github.io/">Website</a>
+            <!-- | <a href="link-to-bibtex">BibTeX</a> -->
+        </p>
+    </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <div style="flex: 0 0 250px;">
+        <img src="..\images\mmp.png" alt="MMP" style="width: 250px; height: auto;">
     </div>
     <div style="flex: 1; padding-left: 20px;">
         <h3>Hierarchical Experience-informed Navigation for Multi-modal Quadrupedal Rebar Grid Traversal</h3>
@@ -46,8 +76,8 @@ Selected Publications:
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div style="flex: 0 0 300px;">
-        <img src="..\images\tro_soft.gif" alt="SE3ET Thumbnail" style="width: 300px; height: auto;">
+    <div style="flex: 0 0 250px;">
+        <img src="..\images\tro_soft.gif" alt="Soft Manipulation" style="width: 250px; height: auto;">
     </div>
     <div style="flex: 1; padding-left: 20px;">
         <h3>Real-Time Deformable-Contact-Aware Model Predictive Control for Force-Modulated Manipulation</h3>
@@ -68,8 +98,8 @@ Selected Publications:
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div style="flex: 0 0 300px;">
-        <img src="..\images\momentum_aware.gif" alt="SE3ET Thumbnail" style="width: 300px; height: auto;">
+    <div style="flex: 0 0 250px;">
+        <img src="..\images\momentum_aware.gif" alt="Momentum-aware TO" style="width: 250px; height: auto;">
     </div>
     <div style="flex: 1; padding-left: 20px;">
         <h3>Momentum-Aware Trajectory Optimization and Control for Agile Quadrupedal Locomotion</h3>
@@ -86,8 +116,8 @@ Selected Publications:
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div style="flex: 0 0 300px;">
-        <img src="..\images\gpf.png" alt="SE3ET Thumbnail" style="width: 300px; height: auto;">
+    <div style="flex: 0 0 250px;">
+        <img src="..\images\gpf.png" alt="GPF navigation" style="width: 250px; height: auto;">
     </div>
     <div style="flex: 1; padding-left: 20px;">
         <h3>GPF-BG: A Hierarchical Vision-Based Planning Framework for Safe Quadrupedal Navigation</h3>
@@ -109,8 +139,8 @@ Selected Publications:
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div style="flex: 0 0 300px;">
-        <img src="..\images\ltl_multi_robot.png" alt="SE3ET Thumbnail" style="width: 300px; height: auto;">
+    <div style="flex: 0 0 250px;">
+        <img src="..\images\ltl_multi_robot.png" alt="LTL multi robot" style="width: 250px; height: auto;">
     </div>
     <div style="flex: 1; padding-left: 20px;">
         <h3>Reactive Task Allocation and Planning for Quadrupedal and Wheeled Robot Teaming</h3>
@@ -128,8 +158,8 @@ Selected Publications:
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div style="flex: 0 0 300px;">
-        <img src="..\images\sydebo.png" alt="SE3ET Thumbnail" style="width: 300px; height: auto;">
+    <div style="flex: 0 0 250px;">
+        <img src="..\images\sydebo.png" alt="TAMP" style="width: 250px; height: auto;">
     </div>
     <div style="flex: 1; padding-left: 20px;">
         <h3>SyDeBO: Symbolic-Decision-Embedded Bilevel Optimization for Long-Horizon Manipulation in Dynamic Environments</h3>
@@ -147,8 +177,8 @@ Selected Publications:
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div style="flex: 0 0 300px;">
-        <img src="..\images\admm.png" alt="SE3ET Thumbnail" style="width: 300px; height: auto;">
+    <div style="flex: 0 0 250px;">
+        <img src="..\images\admm.png" alt="Accelerated ADMM" style="width: 250px; height: auto;">
     </div>
     <div style="flex: 1; padding-left: 20px;">
         <h3>Accelerated ADMM based Trajectory Optimization for Legged Locomotion with Coupled Rigid Body Dynamics</h3>
@@ -166,12 +196,12 @@ Selected Publications:
 
 
 
-News:
+<!-- News:
 ======
 - May 2023: Our work on soft contact manipulation is finally accepted by TRO! 
 - Jan 2023: One paper on vision-based navigation has been accepted by ICRA.
 - June 2022: Our momentum-aware trajectory optimization and MPC paper has been accepted by RA-L. [[pdf]](https://arxiv.org/pdf/2203.01548.pdf)
 - May 2022: Our multi-robot task allocation and planning work has been accepted by CASE 2022! The extended version is attached. [[pdf]](https://arxiv.org/pdf/2110.08436.pdf)
-- August 2021: One paper on rapid quadruped spinning is accepted by Frontiers in Robotics and AI. Link is [here](https://www.frontiersin.org/articles/10.3389/frobt.2021.724138/full). 
+- August 2021: One paper on rapid quadruped spinning is accepted by Frontiers in Robotics and AI. Link is [here](https://www.frontiersin.org/articles/10.3389/frobt.2021.724138/full).  -->
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=BWCxL0v9h2hgv3PCfXlKMcKj-1BieloY3GIobxnMTsQ'></script>
