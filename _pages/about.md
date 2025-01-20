@@ -30,6 +30,14 @@ I also collaborated closely with [SkyMul](https://www.linkedin.com/company/skymu
     </div>
 </div>
 
+News:
+======
+- Jan 2024: I start my internship at MERL!
+- May 2023: Our work on soft contact manipulation is finally accepted by TRO! 
+- Jan 2023: One paper on vision-based navigation has been accepted by ICRA.
+- June 2022: Our momentum-aware trajectory optimization and MPC paper has been accepted by RA-L. [[pdf]](https://arxiv.org/pdf/2203.01548.pdf)
+- May 2022: Our multi-robot task allocation and planning work has been accepted by CASE 2022! The extended version is attached. [[pdf]](https://arxiv.org/pdf/2110.08436.pdf)
+
 Selected Publications:
 ======
 Please check out my [Google Scholar](https://scholar.google.com/citations?user=cnitUIAAAAAJ&hl=en) page for the full list of my publications.
@@ -99,7 +107,7 @@ Please check out my [Google Scholar](https://scholar.google.com/citations?user=c
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <div style="flex: 0 0 250px;">
-        <img src="..\images\momentum_aware.gif" alt="Momentum-aware TO" style="width: 250px; height: auto;">
+        <img src="..\images\momentum_aware_2.gif" alt="Momentum-aware TO" style="width: 250px; height: auto;">
     </div>
     <div style="flex: 1; padding-left: 20px;">
         <h3>Momentum-Aware Trajectory Optimization and Control for Agile Quadrupedal Locomotion</h3>
@@ -194,14 +202,5 @@ Please check out my [Google Scholar](https://scholar.google.com/citations?user=c
     </div>
 </div>
 
-
-
-<!-- News:
-======
-- May 2023: Our work on soft contact manipulation is finally accepted by TRO! 
-- Jan 2023: One paper on vision-based navigation has been accepted by ICRA.
-- June 2022: Our momentum-aware trajectory optimization and MPC paper has been accepted by RA-L. [[pdf]](https://arxiv.org/pdf/2203.01548.pdf)
-- May 2022: Our multi-robot task allocation and planning work has been accepted by CASE 2022! The extended version is attached. [[pdf]](https://arxiv.org/pdf/2110.08436.pdf)
-- August 2021: One paper on rapid quadruped spinning is accepted by Frontiers in Robotics and AI. Link is [here](https://www.frontiersin.org/articles/10.3389/frobt.2021.724138/full).  -->
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=BWCxL0v9h2hgv3PCfXlKMcKj-1BieloY3GIobxnMTsQ'></script>
