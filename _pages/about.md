@@ -32,15 +32,32 @@ I also collaborated closely with [SkyMul](https://www.linkedin.com/company/skymu
 
 News:
 ======
+- Jan 2025: My work with MERL on proprioceptive contact state and force estimation has been accepted by ICRA 2025. See you in Atlanta!
 - Jan 2024: I start my internship at MERL!
 - May 2023: Our work on soft contact manipulation is finally accepted by TRO! 
-- Jan 2023: One paper on vision-based navigation has been accepted by ICRA.
+- Jan 2023: One paper on vision-based navigation has been accepted by ICRA 2024.
 - June 2022: Our momentum-aware trajectory optimization and MPC paper has been accepted by RA-L. [[pdf]](https://arxiv.org/pdf/2203.01548.pdf)
 - May 2022: Our multi-robot task allocation and planning work has been accepted by CASE 2022! The extended version is attached. [[pdf]](https://arxiv.org/pdf/2110.08436.pdf)
 
 Selected Publications:
 ======
 Please check out my [Google Scholar](https://scholar.google.com/citations?user=cnitUIAAAAAJ&hl=en) page for the full list of my publications.
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <div style="flex: 0 0 250px;">
+        <img src="..\images\ICRA2025_IMMKF.gif" alt="MMP" style="width: 250px; height: auto;">
+    </div>
+    <div style="flex: 1; padding-left: 20px;">
+        <h3>Simultaneous Collision Detection and Force Estimation for Dynamic Quadrupedal Locomotion</h3>
+        <p>
+            <strong>Ziyi Zhou</strong>, Stefano Di Cairano, Yebin Wang, Karl Berntorp<br>
+            <em>IEEE International Conference on Robotics and Automation (ICRA), 2025 (accepted)</em>
+        </p>
+        <p>
+            Coming Soon
+        </p>
+    </div>
+</div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <div style="flex: 0 0 250px;">
