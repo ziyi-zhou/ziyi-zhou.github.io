@@ -13,11 +13,13 @@ Prior to that, I received an M.S. also in [Electrical and Computer Engineering](
 
 My research interests center around optimization-based planning, control, and estimation for contact-rich manipulation and legged locomotion, especially in: 
 
-1) Distributed trajectory optimization and model predictive control;
+1) Computationally efficient trajectory optimization and model predictive control;
 
-2) Task and motion planning for single- and multi-robot system;
+2) Agile locomotion leveraging whole-body dynamics;
 
-3) Safe contact planning in cluttered environments.
+3) Safety guaranteed footstep planning in challenging terrains;
+
+4) Reinforcement learning for contact-rich loco-manipulation.
 
 I also collaborated closely with [SkyMul](https://www.linkedin.com/company/skymul/) to automate the rebar tying process using quadrupedal robots. Check out some of the cool things we showcased at WOC 2024!
 
@@ -32,6 +34,7 @@ I also collaborated closely with [SkyMul](https://www.linkedin.com/company/skymu
 
 News:
 ======
+- Jun 2025: Our work on combining mixed-integer programming and reactive synthesis has been accepted to IROS 2025.
 - Jan 2025: My work with MERL on proprioceptive contact state and force estimation has been accepted by ICRA 2025. See you in Atlanta!
 - Jan 2024: I start my internship at MERL!
 - May 2023: Our work on soft contact manipulation is finally accepted by TRO! 
@@ -45,23 +48,41 @@ Please check out my [Google Scholar](https://scholar.google.com/citations?user=c
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <div style="flex: 0 0 250px;">
-        <img src="..\images\ICRA2025_IMMKF.gif" alt="MMP" style="width: 250px; height: auto;">
+        <img src="..\images\micp-ltl.gif" alt="LTL-MICP" style="width: 250px; height: auto;">
     </div>
     <div style="flex: 1; padding-left: 20px;">
-        <h3>Simultaneous Collision Detection and Force Estimation for Dynamic Quadrupedal Locomotion</h3>
+        <h3>Physically-Feasible Reactive Synthesis for Terrain-Adaptive Locomotion via Trajectory Optimization and Symbolic Repair</h3>
         <p>
-            <strong>Ziyi Zhou</strong>, Stefano Di Cairano, Yebin Wang, Karl Berntorp<br>
-            <em>IEEE International Conference on Robotics and Automation (ICRA), 2025 (accepted)</em>
+            <strong>Ziyi Zhou*</strong>, Qian Meng*, Hadas Kress-Gazit, Ye Zhao<br>
+            <em>IEEE/RSJ International Conference on Intelligent Robots, Systems (IROS), 2025</em>
         </p>
         <p>
-            Coming Soon
+            <a href="https://arxiv.org/pdf/2503.03071">Paper</a> |
+            <a href="https://www.youtube.com/watch?v=i2rw1nVTxxY">Video</a>
+            <!-- | <a href="link-to-bibtex">BibTeX</a> -->
         </p>
     </div>
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <div style="flex: 0 0 250px;">
-        <img src="..\images\opt2skill.gif" alt="MMP" style="width: 250px; height: auto;">
+        <img src="..\images\ICRA2025_IMMKF.gif" alt="IMM-MBKO" style="width: 250px; height: auto;">
+    </div>
+    <div style="flex: 1; padding-left: 20px;">
+        <h3>Simultaneous Collision Detection and Force Estimation for Dynamic Quadrupedal Locomotion</h3>
+        <p>
+            <strong>Ziyi Zhou</strong>, Stefano Di Cairano, Yebin Wang, Karl Berntorp<br>
+            <em>IEEE International Conference on Robotics and Automation (ICRA), 2025</em>
+        </p>
+        <p>
+            <a href="https://arxiv.org/pdf/2504.17201">Paper</a>
+        </p>
+    </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <div style="flex: 0 0 250px;">
+        <img src="..\images\opt2skill.gif" alt="Opt2Skill" style="width: 250px; height: auto;">
     </div>
     <div style="flex: 1; padding-left: 20px;">
         <h3>Opt2Skill: Imitating Dynamically-feasible Whole-Body Trajectories for Versatile Humanoid Loco-Manipulation</h3>
