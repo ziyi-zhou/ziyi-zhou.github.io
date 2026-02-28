@@ -1,0 +1,10 @@
+# Social media links and usernames (jekyll-socials plugin)
+# Display order follows the order defined here.
+# Docs: https://github.com/george-gca/jekyll-socials
+
+cv_pdf: /assets/pdf/cv.pdf
+email: zhouziyi@gatech.edu
+rss_icon: true
+scholar_userid: cnitUIAAAAAJ
+github: zzhou387
+linkedin: ziyizhougt
