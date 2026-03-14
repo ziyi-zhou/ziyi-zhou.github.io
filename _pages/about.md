@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 nav_order: 1
-subtitle: Ph.D. student at <a href="https://www.ece.gatech.edu/">Georgia Tech ECE</a>. <a href="https://lab-idar.gatech.edu/">LIDAR Lab</a>, advised by <a href="https://www.me.gatech.edu/faculty/zhao">Dr. Ye Zhao</a>.
+subtitle:
 
 profile:
   align: right
@@ -17,7 +17,7 @@ selected_papers: true
 social: true
 
 announcements:
-  enabled: true
+  enabled: false
   scrollable: true
   limit: 6
 
@@ -25,18 +25,18 @@ latest_posts:
   enabled: false
 ---
 
-I'm a Ph.D. student in the School of [Electrical and Computer Engineering](https://www.ece.gatech.edu/), Georgia Tech, specializing in Robotics. I'm advised by Dr. [Ye Zhao](https://www.me.gatech.edu/faculty/zhao) at the [Laboratory for Intelligent Decision and Autonomous Robots (LIDAR)](https://lab-idar.gatech.edu/).
+I'm a Ph.D. student in the School of [ECE](https://www.ece.gatech.edu/), [Georgia Tech](https://www.gatech.edu/), specializing in Robotics. I'm advised by [Ye Zhao](https://www.me.gatech.edu/faculty/zhao) at the [LIDAR](https://lab-idar.gatech.edu/) lab. 
 
-Prior to that, I received an M.S. in [Electrical and Computer Engineering](https://www.ece.gatech.edu/) from Georgia Tech in 2020 and a B.Eng. in Automation from [Northeastern University (China)](http://english.neu.edu.cn/) in 2018.
+Prior to that, I received an M.S. in [ECE](https://www.ece.gatech.edu/) from [Georgia Tech](https://www.gatech.edu/) in 2020 and a B.Eng. in Automation from [Northeastern University](http://english.neu.edu.cn/) in 2018.
 
-My research interests center around optimization-based planning, control, and estimation for contact-rich manipulation and legged locomotion:
+Living in a remarkable era of robotics, I’m passionate about full-stack planning, control, and estimation for contact-rich manipulation and legged locomotion, especially:
 
-1. **Computationally efficient trajectory optimization and model predictive control**
+1. **Distributed trajectory optimization and model predictive control**
 2. **Agile locomotion leveraging whole-body dynamics**
 3. **Safety-guaranteed footstep planning in challenging terrains**
-4. **Reinforcement learning for contact-rich loco-manipulation**
+4. **IL/RL for contact-rich loco-manipulation**
 
-I also collaborated closely with [SkyMul](https://www.linkedin.com/company/skymul/) to automate the rebar tying process using quadrupedal robots. Check out some of the work we showcased at WOC 2024!
+I also collaborated closely with [SkyMul](https://www.linkedin.com/company/skymul/) during 2022 - 2023 to automate the rebar tying process using quadrupedal robots. Check out some of the work we showcased at WOC!
 
 <div class="row mt-3">
   <div class="col-sm-6">

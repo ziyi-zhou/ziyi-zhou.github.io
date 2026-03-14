@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 description: Publications by year. Full list on Google Scholar.
-nav: true
+nav: false
 nav_order: 2
 ---
 
