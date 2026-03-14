@@ -36,7 +36,7 @@ Living in a remarkable era of robotics, I’m passionate about full-stack planni
 3. **Safety-guaranteed footstep planning in challenging terrains**
 4. **IL/RL for contact-rich loco-manipulation**
 
-I also collaborated closely with [SkyMul](https://www.linkedin.com/company/skymul/) during 2022 - 2023 to automate the rebar tying process using quadrupedal robots. Check out some of the work we showcased at WOC!
+I was fortunate to intern at [MERL](https://www.merl.com/), [UBTECH](https://www.ubtrobot.com/en/), and [AlphaZ](https://alpha-z.ai/). I also collaborated closely with [SkyMul](https://www.linkedin.com/company/skymul/) during 2022 - 2023 to automate the rebar tying process using quadrupedal robots. Check out some of the work we showcased at WOC!
 
 <div class="row mt-3">
   <div class="col-sm-6">
