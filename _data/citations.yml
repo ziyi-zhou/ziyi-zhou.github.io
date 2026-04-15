@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-10'
+  last_updated: '2026-04-15'
 papers:
   cnitUIAAAAAJ:4DMP91E08xMC:
     citations: 3
@@ -70,7 +70,7 @@ papers:
     title: 'Sydebo: Symbolic-decision-embedded bilevel optimization for long-horizon manipulation in dynamic environments'
     year: '2021'
   cnitUIAAAAAJ:qxL8FJ1GzNcC:
-    citations: 101
+    citations: 103
     title: 'A survey of optimization-based task and motion planning: From classical to learning approaches'
     year: '2024'
   cnitUIAAAAAJ:u5HHmVD_uO8C:
