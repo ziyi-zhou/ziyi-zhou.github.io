@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-20'
+  last_updated: '2026-06-03'
 papers:
   cnitUIAAAAAJ:4DMP91E08xMC:
     citations: 3
@@ -26,7 +26,7 @@ papers:
     title: Momentum-Aware Trajectory Optimization and Control for Agile Quadrupedal Locomotion
     year: '2022'
   cnitUIAAAAAJ:M3ejUd6NZC8C:
-    citations: 10
+    citations: 11
     title: Hierarchical experience-informed navigation for multi-modal quadrupedal rebar grid traversal
     year: '2024'
   cnitUIAAAAAJ:ULOm3_A8WrAC:
@@ -54,7 +54,7 @@ papers:
     title: Real-time deformable-contact-aware model predictive control for force-modulated manipulation
     year: '2023'
   cnitUIAAAAAJ:aqlVkmm33-oC:
-    citations: 47
+    citations: 52
     title: 'Opt2skill: Imitating dynamically-feasible whole-body trajectories for versatile humanoid loco-manipulation'
     year: '2025'
   cnitUIAAAAAJ:d1gkVwhDpl0C:
@@ -70,7 +70,7 @@ papers:
     title: 'Sydebo: Symbolic-decision-embedded bilevel optimization for long-horizon manipulation in dynamic environments'
     year: '2021'
   cnitUIAAAAAJ:qxL8FJ1GzNcC:
-    citations: 109
+    citations: 115
     title: 'A survey of optimization-based task and motion planning: From classical to learning approaches'
     year: '2024'
   cnitUIAAAAAJ:u5HHmVD_uO8C:
