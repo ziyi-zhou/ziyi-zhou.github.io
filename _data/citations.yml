@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-15'
+  last_updated: '2026-07-08'
 papers:
   cnitUIAAAAAJ:4DMP91E08xMC:
     citations: 3
@@ -22,7 +22,7 @@ papers:
     title: 'SEEC: Stable End-Effector Control with Model-Enhanced Residual Learning for Humanoid Loco-Manipulation'
     year: '2025'
   cnitUIAAAAAJ:LkGwnXOMwfcC:
-    citations: 49
+    citations: 50
     title: Momentum-Aware Trajectory Optimization and Control for Agile Quadrupedal Locomotion
     year: '2022'
   cnitUIAAAAAJ:M3ejUd6NZC8C:
@@ -50,11 +50,11 @@ papers:
     title: 'Terrain-perception-free Quadrupedal Spinning Locomotion on Versatile Terrains: Modeling, Analysis, and Experimental Validation'
     year: '2021'
   cnitUIAAAAAJ:_kc_bZDykSQC:
-    citations: 34
+    citations: 36
     title: Real-time deformable-contact-aware model predictive control for force-modulated manipulation
     year: '2023'
   cnitUIAAAAAJ:aqlVkmm33-oC:
-    citations: 55
+    citations: 57
     title: 'Opt2skill: Imitating dynamically-feasible whole-body trajectories for versatile humanoid loco-manipulation'
     year: '2025'
   cnitUIAAAAAJ:d1gkVwhDpl0C:
@@ -66,11 +66,11 @@ papers:
     title: Simultaneous Collision Detection and Force Estimation for Dynamic Quadrupedal Locomotion
     year: '2025'
   cnitUIAAAAAJ:qjMakFHDy7sC:
-    citations: 22
+    citations: 23
     title: 'Sydebo: Symbolic-decision-embedded bilevel optimization for long-horizon manipulation in dynamic environments'
     year: '2021'
   cnitUIAAAAAJ:qxL8FJ1GzNcC:
-    citations: 122
+    citations: 136
     title: 'A survey of optimization-based task and motion planning: From classical to learning approaches'
     year: '2024'
   cnitUIAAAAAJ:u5HHmVD_uO8C:
