@@ -1,36 +1,32 @@
 metadata:
-  last_updated: '2026-07-20'
+  last_updated: '2026-08-07'
 papers:
   cnitUIAAAAAJ:4DMP91E08xMC:
     citations: 3
     title: Physically-Feasible Reactive Synthesis for Terrain-Adaptive Locomotion via Trajectory Optimization and Symbolic Repair
     year: '2025'
   cnitUIAAAAAJ:4TOpqqG69KYC:
-    citations: 16
+    citations: 17
     title: 'GPF-BG: A hierarchical vision-based planning framework for safe quadrupedal navigation'
     year: '2023'
-  cnitUIAAAAAJ:7PzlFSSx8tAC:
-    citations: 0
-    title: Physically-Feasible Reactive Synthesis for Terrain-Adaptive Locomotion
-    year: '2025'
   cnitUIAAAAAJ:IWHjjKOFINEC:
-    citations: 1
+    citations: 2
     title: 'ACLM: ADMM-Based Distributed Model Predictive Control for Collaborative Loco-Manipulation'
     year: '2026'
   cnitUIAAAAAJ:L8Ckcad2t8MC:
     citations: 4
-    title: 'SEEC: Stable End-Effector Control with Model-Enhanced Residual Learning for Humanoid Loco-Manipulation'
+    title: 'SEEC: Stable end-effector control with model-enhanced residual learning for humanoid loco-manipulation'
     year: '2025'
   cnitUIAAAAAJ:LkGwnXOMwfcC:
-    citations: 50
+    citations: 48
     title: Momentum-Aware Trajectory Optimization and Control for Agile Quadrupedal Locomotion
     year: '2022'
   cnitUIAAAAAJ:M3ejUd6NZC8C:
-    citations: 11
+    citations: 12
     title: Hierarchical experience-informed navigation for multi-modal quadrupedal rebar grid traversal
     year: '2024'
   cnitUIAAAAAJ:ULOm3_A8WrAC:
-    citations: 37
+    citations: 38
     title: Reactive task allocation and planning for quadrupedal and wheeled robot teaming
     year: '2022'
   cnitUIAAAAAJ:Y0pCki6q_DkC:
@@ -50,11 +46,11 @@ papers:
     title: 'Terrain-perception-free Quadrupedal Spinning Locomotion on Versatile Terrains: Modeling, Analysis, and Experimental Validation'
     year: '2021'
   cnitUIAAAAAJ:_kc_bZDykSQC:
-    citations: 36
+    citations: 37
     title: Real-time deformable-contact-aware model predictive control for force-modulated manipulation
     year: '2023'
   cnitUIAAAAAJ:aqlVkmm33-oC:
-    citations: 58
+    citations: 61
     title: 'Opt2skill: Imitating dynamically-feasible whole-body trajectories for versatile humanoid loco-manipulation'
     year: '2025'
   cnitUIAAAAAJ:d1gkVwhDpl0C:
@@ -70,7 +66,7 @@ papers:
     title: 'Sydebo: Symbolic-decision-embedded bilevel optimization for long-horizon manipulation in dynamic environments'
     year: '2021'
   cnitUIAAAAAJ:qxL8FJ1GzNcC:
-    citations: 138
+    citations: 146
     title: 'A survey of optimization-based task and motion planning: From classical to learning approaches'
     year: '2024'
   cnitUIAAAAAJ:u5HHmVD_uO8C:
